@@ -1,3 +1,3 @@
-module github.com/matias-yii/go_math/v2
+module github.com/matias-yii/arithmetic/v2
 
 go 1.14
