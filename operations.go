@@ -8,12 +8,3 @@ func Factorial(n int) int {
 	}
 	return f
 }
-
-//Add sums n int numbers
-func Add(nums ...int) int {
-	sum := 0
-	for _, num := range nums {
-		sum += num
-	}
-	return sum
-}
